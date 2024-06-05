@@ -3,7 +3,7 @@ package com.example.atividades.atividade01;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
-import com.example.atividades.atividade01.Add;
+// import com.example.atividades.atividade01.Add;
 
 public class TestAdd {
     private final Add atividade = new Add();
